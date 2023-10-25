@@ -1,6 +1,16 @@
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
-<H1> ATIVIDADE DA DUPLA </H1>
+<H1>  JOSE FABIO </H1>
+<H2> git status
+git commit
+git push
+git add
+git remote
+git checkout
+git init
+git clone
+clear
+cd  </H2>
 </BODY>
 </HTML>
