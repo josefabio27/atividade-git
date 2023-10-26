@@ -1,7 +1,7 @@
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
-<H1>  JOSE FABIO </H1>
+<H1>  JOSE FABIO e rene </H1>
 <H2> git status
 git commit
 git push
@@ -11,6 +11,8 @@ git checkout
 git init
 git clone
 clear
-cd  </H2>
+cd  
+ git branch 
+</H2>
 </BODY>
 </HTML>
